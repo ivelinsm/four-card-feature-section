@@ -59,6 +59,6 @@ The <header> part should have the "wrapper" class and all of its children should
 
 ## Acknowledgments
 
-While looking through the solutions of other people I came accross the solution of [@jameslegoff92](https://www.frontendmentor.io/profile/@jameslegoff92) which mentioned the BEM Methodology and the wrapper. 
+While looking through the solutions of other people I came accross the solution of [@jameslegoff92](https://www.frontendmentor.io/profile/jameslegoff92) which mentioned the BEM Methodology and the wrapper. 
 
 Big thank you for the clean code and the informative README.md file.
