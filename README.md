@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/ivelinsm/four-card-feature-section)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://ivelinsm.github.io/four-card-feature-section/)
 
 ## My process
 
